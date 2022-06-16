@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4O07gxE07OuzXIakgiKlv9OcxC5vazuU2hhCrsOwD7pCuhRHm4uIZ4DpkAS5iOeIZ1lei+syBB+32YOihqr4PA==",
+  "success": true,
+  "projectFilePath": "D:\\Niveau1 SIM\\Nouveau dossier\\TropheeEquipe\\TropheeEquipe\\PS.Domain\\PS.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ounifi samir\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

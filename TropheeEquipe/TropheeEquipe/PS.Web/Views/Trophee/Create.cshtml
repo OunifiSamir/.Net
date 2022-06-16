@@ -1,0 +1,49 @@
+﻿@model PS.Domain.Trophee
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Trophee</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DateTrophee" class="control-label"></label>
+                <input asp-for="DateTrophee" class="form-control" />
+                <span asp-validation-for="DateTrophee" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Recompense" class="control-label"></label>
+                <input asp-for="Recompense" class="form-control" />
+                <span asp-validation-for="Recompense" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeTrophee" class="control-label"></label>
+                <input asp-for="TypeTrophee" class="form-control" />
+                <span asp-validation-for="TypeTrophee" class="text-danger"></span>
+            </div>
+            //////
+            <div class="form-group">
+                <label asp-for="EquipeId" class="control-label">dhia</label>
+                <select asp-for="EquipeId" class ="form-control" asp-items="ViewBag.EquipeId"></select>
+            </div>
+            ///////
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,57 @@
+C:\Users\USER\RA\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\USER\RA\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\USER\RA\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\USER\RA\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\ProductStore\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csprojAssemblyReference.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Rahma\Desktop\Esprit\2021-2022\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\Tirari Achref\Desktop\NetEquipe\EmptyProject\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+C:\Users\ounifi samir\Desktop\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.deps.json
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\bin\Debug\netcoreapp3.1\PS.Domain.pdb
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.AssemblyReference.cache
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfoInputs.cache
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.AssemblyInfo.cs
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.csproj.CoreCompileInputs.cache
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.dll
+D:\Niveau1 SIM\Nouveau dossier\TropheeEquipe\TropheeEquipe\PS.Domain\obj\Debug\netcoreapp3.1\PS.Domain.pdb
